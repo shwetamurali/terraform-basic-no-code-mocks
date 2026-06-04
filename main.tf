@@ -1,4 +1,4 @@
-// main.tf trigger a test run again
+// [test-trigger] success: clean teardown
 terraform {
   required_version = ">= 1.14.4"
   required_providers { aws = { source = "hashicorp/aws" } }
