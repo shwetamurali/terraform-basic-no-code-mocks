@@ -1,4 +1,4 @@
-// [test-trigger] success: clean teardown (agent)
+// [test-trigger] success: clean teardown (agent-test)
 terraform {
   required_version = ">= 1.14.4"
   required_providers { aws = { source = "hashicorp/aws" } }
